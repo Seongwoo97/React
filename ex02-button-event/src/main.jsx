@@ -1,0 +1,11 @@
+import { StrictMode } from 'react'
+import { createRoot } from 'react-dom/client'
+import HomeComponent from './HomeComponent' // .jsx는 생략 가능
+
+createRoot(document.getElementById('root')).render(
+//   <StrictMode>
+//     <App />
+//   </StrictMode>,
+  <HomeComponent></HomeComponent>
+
+)

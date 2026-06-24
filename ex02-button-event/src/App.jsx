@@ -20,11 +20,6 @@ function App() {
           <p>
             Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
           </p>
-          <p>
-            리액트에 대해 알아보기~~~~
-            우히히
-          </p>
-
         </div>
         <button
           type="button"
