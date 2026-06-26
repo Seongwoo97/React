@@ -1,0 +1,10 @@
+/* 타입 선택자를 통한 스타일 적용 */
+
+h2{background-color: yellow;}
+
+
+/* (권장) 클래스 선택자를 통한 스타일 적용 */
+.aa{color: orange; font-size: 1.5rem;}
+/* 원래는 클래스명 잘 안 겹치게 디테일하게 씀 */
+
+.menu{width: 90%;}
